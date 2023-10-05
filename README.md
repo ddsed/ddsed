@@ -22,6 +22,12 @@ _Programs_
 * Adobe
 * MS Office
 
+_Languages_
+* Russian (Native)
+* English (C1)
+* Italian (C1)
+* Danish (Beginner)
+
 _Contact info_  
 dashassed@gmail.com
 
