@@ -1,6 +1,7 @@
 # Hi there, my name is Dasha 👋
 
 _About me_
+
 I started my path in coding as a student of Yandex.Prakticum (Frontend developer course). Currently I'm doing my Masters Degree in Software Design at IT Universuty of Copenhagen.
 
 I love outdoor activities such as hiking, snowboarding (especially freeride), surfing and landscape photography. I am also into ping-pong (and beer edition of it on fridays 👯👯👯).
@@ -22,7 +23,6 @@ _Programs_
 * MS Office
 
 _Contact info_
-
 
 dashassed@gmail.com
 
