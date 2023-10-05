@@ -22,8 +22,7 @@ _Programs_
 * Adobe
 * MS Office
 
-_Contact info_
-
+_Contact info_  
 dashassed@gmail.com
 
 <!--
