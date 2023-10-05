@@ -22,7 +22,7 @@ _Programs_
 * MS Office
 
 _Contact info_
-* dashassed@gmail.com
+dashassed@gmail.com
 
 <!--
 **ddsed/ddsed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
