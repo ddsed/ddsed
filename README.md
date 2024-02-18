@@ -7,14 +7,15 @@ I started my path in coding as a student of Yandex.Practicum (Frontend developer
 I love outdoor activities such as hiking, snowboarding (especially freeride), surfing and landscape photography. I am also into ping-pong (and beer edition of it on fridays 👯👯👯).
 
 _Tech_
-* HTML
-* CSS
-* JS
-* React
-* Node.js
-* Webpack
-* Express
-* GitHub
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
+![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx)
+![PM2](https://img.shields.io/badge/-PM2-090909?style=for-the-badge&logo=PM2)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 
 _Programs_
 * VS Code
