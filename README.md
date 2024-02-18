@@ -7,6 +7,7 @@ I started my path in coding as a student of Yandex.Practicum (Frontend developer
 I love outdoor activities such as hiking, snowboarding (especially freeride), surfing and landscape photography. I am also into ping-pong (and beer edition of it on fridays 👯👯👯).
 
 _Tech_
+
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
@@ -18,7 +19,8 @@ _Tech_
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 
 _Programs_
-* VS Code
+
+![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VSCode)
 * Figma, Tilda, ReadyMAG
 * Adobe
 * MS Office
