@@ -21,9 +21,10 @@ _Tech_
 _Programs_
 
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VSCode)
-* Figma, Tilda, ReadyMAG
-* Adobe
-* MS Office
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![Tilda](https://img.shields.io/badge/-Tilda-090909?style=for-the-badge&logo=Tilda)
+![ReadyMAG](https://img.shields.io/badge/-ReadyMAG-090909?style=for-the-badge&logo=ReadyMAG)
+![Adobe](https://img.shields.io/badge/-Adobe-090909?style=for-the-badge&logo=Adobe)
 
 _Languages_
 * Russian (Native)
