@@ -10,6 +10,7 @@ _Tech_
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx)
